@@ -16,7 +16,7 @@ while True:
             car_start = False
     elif game_status == "help":
         print("""
-start - to start the car
+start - to start the carar
 stop - to stop the car
 quit - to exit
 """)
